@@ -1,0 +1,190 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background: url(../index.html/img/photo.jpg)  no-repeat center top / cover;
+    background-blend-mode: overlay;
+    background-color: #2C1E6E8F;
+    height: 100vh;
+    
+}
+.heading{
+    background-color: #05022D;
+    height: 100px;
+ 
+}
+.clearfix::after{
+content: '';
+display: table;
+width: 100%;
+clear: both;
+}
+.container{
+    width: 920px;
+    margin: 0 auto;
+}
+.logo{
+    margin-top: 13px;
+    float: left;
+   
+}
+nav{
+    float: right;
+}
+
+.menu{
+    margin: 0%;
+    padding: 0%;
+    display: block;
+    margin-top: 38px;
+    
+    
+}
+.menu li{
+    float: left;
+    margin-right: 20px;
+    display: block;
+}
+.menu a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Open Sans;
+  
+    
+}
+.telephone{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 12px;
+    margin-top: 7px;
+    margin-left: 48px;
+    margin-right: 21px;
+}
+.main-content{
+    margin-top: 230px;
+    float: left;
+
+
+
+}
+h1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #FFFFFF;
+}
+.paragraph{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.aplication{
+margin-top: 300px;
+height: 600px;
+
+}
+.content{
+   
+    margin-top: 170px;
+    margin-bottom: 600px;
+}
+
+h2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: black;
+}
+p{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+    margin-left: 15px;
+}
+hr{
+    border: none;
+    color: #6C63FF;
+    background-color: #6C63FF;
+    margin-bottom: 60px;
+    border-radius: 8px;
+    height: 2px;
+    width: 940px;
+}
+.button{
+margin-bottom: 480px;
+}
+.last-section{
+background: linear-gradient(139.22deg, #DDCAF7 37.6%, #C2F4F4 81.1%);
+height: 780px;
+}
+.section3{
+    padding-top: 140px;
+}
+.son{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+
+}
+.name{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+
+}
+.phone img{
+    padding-bottom: 34px;
+    margin-top: 15px;
+
+}
+.gelik img{
+    text-decoration: none;
+    margin-bottom: 29px;
+}
+.bckphoto{
+    float: right;
+padding-top: 0%;
+}
+.item{
+float: right;
+padding-top: 0%;
+}
+.item p{
+margin-bottom: 38px;
+margin-right: 50px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+;
+
+color: #000000;
+}
+.paragraph p{
+  padding-bottom: 17px;
+}
